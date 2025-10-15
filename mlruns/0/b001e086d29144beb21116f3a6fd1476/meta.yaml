@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ghaid/OneDrive/Bureau/CallCenterAI/mlruns/0/b001e086d29144beb21116f3a6fd1476/artifacts
+end_time: 1760001850863
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b001e086d29144beb21116f3a6fd1476
+run_name: selective-gnu-576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760001836903
+status: 3
+tags: []
+user_id: ghaid
