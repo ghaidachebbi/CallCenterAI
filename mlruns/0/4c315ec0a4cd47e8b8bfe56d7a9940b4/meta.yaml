@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ghaid/OneDrive/Bureau/CallCenterAI/mlruns/0/4c315ec0a4cd47e8b8bfe56d7a9940b4/artifacts
+end_time: 1760002819189
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c315ec0a4cd47e8b8bfe56d7a9940b4
+run_name: mercurial-pig-503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760002786989
+status: 3
+tags: []
+user_id: ghaid

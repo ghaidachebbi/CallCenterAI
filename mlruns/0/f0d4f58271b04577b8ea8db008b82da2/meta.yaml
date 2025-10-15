@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ghaid/OneDrive/Bureau/CallCenterAI/mlruns/0/f0d4f58271b04577b8ea8db008b82da2/artifacts
+end_time: 1759995123945
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0d4f58271b04577b8ea8db008b82da2
+run_name: upset-tern-206
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759995114896
+status: 3
+tags: []
+user_id: ghaid
