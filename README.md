@@ -1,5 +1,3 @@
-You are right, that was a bit lengthy. Here is a **more direct and concise** GitHub README for the CallCenterAI project, focusing only on the essentials and instructions.
-
 ## 🧠 CallCenterAI - Intelligent Ticket Classification (MLOps Mini-Project)
 
 -----
